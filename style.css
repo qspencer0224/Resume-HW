@@ -1,0 +1,42 @@
+.resumeContainer{
+    border: solid black;
+    height: 55vh;
+    width: 100%;
+}
+.name{
+    border: solid red;
+    text-align: center;
+}
+.rowOne{
+    border: solid purple;
+    display: flex;
+}
+.contact{
+    border: solid blue;
+}
+.careerObjective{
+    border: solid orange;
+}
+.rowTwo{
+    
+    display: flex;
+    width: 33%;
+}
+.skills{
+    border: solid pink;
+}
+.projects{
+    border: solid yellow;
+    text-align: right;
+}
+.rowThree{
+    border: solid aqua;
+    display: flex;
+}
+.activities{
+    border: solid brown;
+}
+.activitiesDescription{
+    border: solid grey;
+}
+
